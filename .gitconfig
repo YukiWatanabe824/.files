@@ -1,0 +1,14 @@
+[user]
+	name = YukiWatanabe824
+	ename = <gyggg950@gmail.com>
+	email = gyggg950@gmail.com
+	username = YukiWatanabe0824
+[color]
+	ui = auto
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+[init]
+	defaultBranch = main
