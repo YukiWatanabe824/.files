@@ -67,4 +67,5 @@ compinit
 # シンタックスハイライト
 #source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
-
+# nvmの使用
+source ~/.nvm/nvm.sh
