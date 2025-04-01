@@ -1,6 +1,3 @@
-#export PATH="~/.rbenv/shims:/usr/local/bin:$PATH"
-eval "$(rbenv init -)"
-
 #環境変数の設定
   #FJORDBOOTCAMP
     #Rails
